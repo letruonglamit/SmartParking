@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmartParking</string>
+    <string name="title_activity_maps">Smart Parking</string>
+    <string name="hello_world">Hello</string>
+</resources>
